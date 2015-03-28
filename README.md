@@ -6,4 +6,4 @@ Projet de site Web perso.
 ---
 
 
-Technos utilisées : HTML, CSS, JavaScript (Librairie OpenLayers)
+Technos utilisées : HTML, CSS (Bootstrap), JavaScript (Librairie OpenLayers)
